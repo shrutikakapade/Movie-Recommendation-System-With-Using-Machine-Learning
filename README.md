@@ -43,7 +43,7 @@
 <ul><li>API Integration:Use the requests library to fetch additional data from external APIs if needed (e.g.,movie posters, additional details).
 </li></ul></p>
 <h3>Output</h3>
-<img src="https://github.com/shrutikakapade/Movie-Recommendation-System-With-Using-Machine-Learning/assets/111684011/fb18adb9-c959-445a-92d8-b14b21c8237e" alt="Output UI" width="600" height="400" title="Landscape Image">
+<img src="https://github.com/shrutikakapade/Movie-Recommendation-System-With-Using-Machine-Learning/assets/111684011/fb18adb9-c959-445a-92d8-b14b21c8237e" align="center" alt="Output UI" width="800" height="400" title="Landscape Image">
 
 <h3>Conclusion:</h3>
 <p align="left">This movie recommendation system effectively utilizes machine learning techniques and natural language processing to provide personalized movie suggestions. By integrating various Python libraries for data processing, feature extraction, and web application development, we deliver a robust and interactive user experience.</p>
