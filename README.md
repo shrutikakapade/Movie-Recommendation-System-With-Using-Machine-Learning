@@ -42,6 +42,7 @@
         
 <ul><li>API Integration:Use the requests library to fetch additional data from external APIs if needed (e.g.,movie posters, additional details).</li></ul></p>
 <h3>Output</h3>
+![Uploading Output UI.png…]()
 
 <h3>Conclusion:</h3>
 <p align="left">This movie recommendation system effectively utilizes machine learning techniques and natural language processing to provide personalized movie suggestions. By integrating various Python libraries for data processing, feature extraction, and web application development, we deliver a robust and interactive user experience.</p>
