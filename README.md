@@ -40,9 +40,10 @@
         - Load the preprocessed data and model using pickle.
         - Create a user interface to input a movie title and fetch recommendations.</li></ul>
         
-<ul><li>API Integration:Use the requests library to fetch additional data from external APIs if needed (e.g.,movie posters, additional details).</li></ul></p>
+<ul><li>API Integration:Use the requests library to fetch additional data from external APIs if needed (e.g.,movie posters, additional details).
+</li></ul></p>
 <h3>Output</h3>
-![Output UI](https://github.com/shrutikakapade/Movie-Recommendation-System-With-Using-Machine-Learning/assets/111684011/ed1f86bf-e1ad-45e1-b3f6-7ac2ef652ec6)
+![Output UI](https://github.com/shrutikakapade/Movie-Recommendation-System-With-Using-Machine-Learning/assets/111684011/fb18adb9-c959-445a-92d8-b14b21c8237e)
 <h3>Conclusion:</h3>
 <p align="left">This movie recommendation system effectively utilizes machine learning techniques and natural language processing to provide personalized movie suggestions. By integrating various Python libraries for data processing, feature extraction, and web application development, we deliver a robust and interactive user experience.</p>
 
